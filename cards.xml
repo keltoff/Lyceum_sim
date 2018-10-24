@@ -1,0 +1,18 @@
+<cards>
+  <deck name="school">
+    <card />
+  </deck>
+  <deck name="atelier">
+  <deck/>
+  <selection name="afternoon">
+    <option key="f" name="fencing club" deck="fencing" />
+    <option key="a" name="archery club" deck="archery" />
+    <option key="p" name="poetry club" deck="poetry" />
+    <option key="t" name="atelier" deck="atelier" />
+    <option key="l" name="library" selection="library" />
+  </selection>
+  <selection name="evening">
+  </selection>
+  <selection name="library">
+  </selection>
+</cards>
