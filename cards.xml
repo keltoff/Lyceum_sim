@@ -3,7 +3,7 @@
     <card />
   </deck>
   <deck name="atelier">
-  <deck/>
+  </deck>
   <selection name="afternoon">
     <option key="f" name="fencing club" deck="fencing" />
     <option key="a" name="archery club" deck="archery" />
